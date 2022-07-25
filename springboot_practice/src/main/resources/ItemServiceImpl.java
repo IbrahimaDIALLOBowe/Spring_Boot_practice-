@@ -1,5 +1,3 @@
-# Spring_Boot_practice-
-
 
 --------------------------------------------------------
 STEPS to include in the process of building spring boot project 
